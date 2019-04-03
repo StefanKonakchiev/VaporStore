@@ -1,4 +1,4 @@
-﻿namespace VaporStore.Data.Models
+﻿namespace VaporStore.Data.Models.Enum
 {
     public enum CardType
     {
