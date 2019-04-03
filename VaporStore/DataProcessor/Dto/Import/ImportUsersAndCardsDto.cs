@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Text;
 
-namespace VaporStore.Dtos
+namespace VaporStore.DataProcessor.Dto.Import
 {
     public class ImportUsersAndCardsDto
     {

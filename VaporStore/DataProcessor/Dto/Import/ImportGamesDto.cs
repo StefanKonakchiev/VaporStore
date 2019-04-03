@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Text;
 using VaporStore.Data.Models;
 
-namespace VaporStore.Dtos
+namespace VaporStore.DataProcessor.Dto.Import
 {
     public class ImportGamesDto
     {

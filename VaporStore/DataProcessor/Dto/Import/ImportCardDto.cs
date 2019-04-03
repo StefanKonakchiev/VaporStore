@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using VaporStore.Data.Models;
+using VaporStore.Data.Models.Enum;
 
-namespace VaporStore.Dtos
+namespace VaporStore.DataProcessor.Dto.Import
 {
     public class ImportCardDto
     {
